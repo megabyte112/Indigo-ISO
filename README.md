@@ -13,7 +13,15 @@ Indigo includes (or will include):
 - Incredibly modular installer, for the tinkerers out there
 - Plus much more!
 
+Features currently in development:
+- Support for the Hypr window manager
+- Battery indicator for laptops
+- More user-friendly installer
+- Ironing out many, many bugs
+- Art!
+
+
 
 ## Footnotes
 
-Currently, this is only a prototype - Indigo is not yet in a usable state.
+Currently, this is only a prototype - Indigo is not yet in a safe or fully usable state.
